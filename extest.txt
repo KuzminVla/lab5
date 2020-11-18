@@ -1,0 +1,12 @@
+add 5
+1
+1
+1
+1
+1
+very_easy
+1
+1
+show
+execute_script extest1.txt
+execute_script extest.txt
